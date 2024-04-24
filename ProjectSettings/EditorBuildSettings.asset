@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WaveRig.unity
+    guid: 256a7f63a6d4e574b8b029ec5c5c8f54
+  m_configObjects:
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: 54c95e9d0d8fc414c90825e0e179fdba, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4786d1470f96ac1448dd96bf754bea19, type: 2}
